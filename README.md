@@ -45,6 +45,10 @@
 
 2013-10-04	[UISGCON9](uisgcon9-2013-10-04.md)
 
-2012-MM-DD	[UISGv6](uisg-6.md)
+2012-10-05	[UISGCON8](uisgcon8-2012-10-05.md)
 
-2011-MM-DD	[UISG#5](uisg-5.md)
+2011-12-02	[UISGv7](uisg7-2011-12-02.md)
+
+2010-MM-DD	[UISGv6](uisg-6.md)
+
+2009-MM-DD	[UISG#5](uisg-5.md)
