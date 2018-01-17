@@ -10,7 +10,14 @@
 
 2017-12-09 [OWASP Kyiv Winter 2017](owaspkyiv-2017-12-02.md)
 
+2017-11-18 [OWASP Lviv "OWASP Ukraine 2017"](owaspukraine-2017-11-18.md)
+
 2017-10-22 [UISGCON13](uisgcon13-2017-20-22.md) 
 
 2017-09-09 [OWASP Kyiv Fall 2017](owaspkyiv-2017-09-09.md)
 
+2017-07-01 [BSides Odessa 2017](bsidesodessa-2017-07-01.md)
+
+2017-06-10 [IT Weekend Lviv: Research & Security](itweekendlviv-2017-06-10.md)
+
+2017-05-27 [OWASP Kyiv Kick-Off](owaspkyiv-2017-05-27.md)
