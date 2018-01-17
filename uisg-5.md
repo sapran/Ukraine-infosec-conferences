@@ -2,7 +2,7 @@
 
 ## Загальні відомості
 
-TODO
+Дата проведення: 2011 р.
 
 ## Програма
 
@@ -37,3 +37,7 @@ Unified Threat Management. Андрей Логинов
 
 Построение эффективного процесса управления информационными рисками. Владимир Матвийчук
 - Видео [Vimeo](https://vimeo.com/23268207)
+
+О ситуации в ИТ сфере Украины. Алексей Янковский
+- Слайды [Google Drive](https://docs.google.com/leaf?id=0AeNBMOsQTLJQZGhkeG4yZzZfNTc5Z253amNmZjc&sort=name&layout=list&num=50)
+- Видео [Vimeo](https://vimeo.com/23267646)
