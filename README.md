@@ -40,3 +40,5 @@
 2017-05-27	[OWASP Kyiv Kick-Off](owaspkyiv-2017-05-27.md)
 
 2016-11-26	[UISGCON12](uisgcon12-2016-11-26.md)
+
+2013-10-04	[UISGCON9](uisgcon9-2013-10-04.md)
