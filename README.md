@@ -38,3 +38,5 @@
 2017-06-10	[IT Weekend Lviv: Research & Security](itweekendlviv-2017-06-10.md)
 
 2017-05-27	[OWASP Kyiv Kick-Off](owaspkyiv-2017-05-27.md)
+
+2016-11-26	[UISGCON12](uisgcon12-2016-11-26.md)
