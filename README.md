@@ -11,3 +11,6 @@
 2017-12-09 [OWASP Kyiv Winter 2017](owaspkyiv-2017-12-02.md)
 
 2017-10-22 [UISGCON13](uisgcon13-2017-20-22.md) 
+
+2017-09-09 [OWASP Kyiv Fall 2017](owaspkyiv-2017-09-09.md)
+
