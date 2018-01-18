@@ -13,10 +13,12 @@
 ## Програма
 
 Fantastic beasts and where to hide from them: modern cyber-attackers, their abilities, and tools. Vlad Styran
+- Презентація [SlideShare](https://www.slideshare.net/sapran/fantastic-beasts-and-where-to-hie-from-them)
 
 S/MIME security breaches. Roman Ostap
 
 Spying the world - CIA security organization in nutshell. Nazar Tymoshyk
+- Презентація [SlideShare](https://www.slideshare.net/NazarTymoshyk/cia-hacking-organization-in-the-nutshell)
 
 Hacking backwards - Different look on ussual vulnerabilities from the attacker perspectiv. Yurii Bilyk
 
