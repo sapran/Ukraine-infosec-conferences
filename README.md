@@ -43,7 +43,17 @@
 
 2017-05-27	[OWASP Kyiv Kick-Off](owaspkyiv-2017-05-27.md)
 
+2017-03-14	[OWASP Ukraine Q1 2017](owaspukraine-2017-03-14.md)
+
 2016-11-26	[UISGCON12](uisgcon12-2016-11-26.md)
+
+2015-03-07	[OWASP Ukraine Q1 2015](owaspukraine-2015-03-07.md)
+
+2014-11-29	[OWASP Ukraine Q3 2014](owaspukraine-2014-11-29.md)
+
+2014-06-28	[OWASP Ukraine Q2 2014](owaspukraine-2014-06-28.md)
+
+2014-03-15	[OWASP Ukraine Q2 2014](owaspukraine-2014-03-15.md)
 
 2013-10-04	[UISGCON9](uisgcon9-2013-10-04.md)
 
