@@ -29,6 +29,9 @@
 - Веб-сайт https://nonamecon.org
 - CFP [EasyChair](https://easychair.org/cfp/NNC2018)
 
+### 2018-04-21	[BSides Kyiv 2016](https://securitybsides.org.ua)
+- Веб-сайт http://www.securitybsides.com/w/page/107448240/BSidesKyiv
+
 ## Архів
 |Дата|Подія|
 |---|---|
