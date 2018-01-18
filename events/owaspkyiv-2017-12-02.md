@@ -10,7 +10,7 @@
 
 Архів презентацій: https://www.owasp.org/index.php/Kyiv#tab=Past_Events
 
-Архів відео: https://www.owasp.org/index.php/Kyiv#tab=Past_Events
+Архів відео: https://www.youtube.com/watch?v=t-ntzgQxZAc&list=PLDLqQj8RuUFvLpNwoL-gJNw-95SpWmr1Q
 
 Фотогалерея: https://www.facebook.com/media/set/?set=a.332428133898842.1073741835.243702092771447&type=1&l=b7989598a7
 
