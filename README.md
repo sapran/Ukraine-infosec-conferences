@@ -9,33 +9,33 @@
 ### Як виправити або доповнити інформацію?
 Щоб додати або виправити матеріал конференції, яка вже присутня у списку, перейдіть на відповідну сторінку та створіть `Issue` або `Pull Request`. Сторінки, які вимагають доповнень, позначені зірочкою*
 
-### Я не вмію/02-22	[OWASP Dnipro Security meetup #1](https://www.owasp.org/index-не хочу користуватися Git.
+### Я не вмію/не хочу користуватися Git.
 Просто надішліть інформацію у вільній формі на sapran@nonamecon.org.
 
 ## Анонси
-### 2018.php/ Веб-сайт https://www.owasp.org/index-Dnipro)
-.php/ CFP [EasyChair](https://easychair-Dnipro
-.org/ Програма [Facebook](https://www.facebook-cfp/od_sm1_2018)
-.com/ Реєстрацію відвідувачів завершено, триває реєстрація на онлайн-трансляцію [EventBrite](https://www.eventbrite-events/390549114729552/)
-.com/e/owasp-dnipro-security-meetup-1-tickets-41684751213)
+### 2018-02-22	[OWASP Dnipro Security meetup #1](https://www.owasp.org/index.php/Dnipro)
+- Веб-сайт https://www.owasp.org/index.php/Dnipro
+- CFP [EasyChair](https://easychair.org/cfp/od_sm1_2018)
+- Програма [Facebook](https://www.facebook.com/events/390549114729552/)
+- Реєстрацію відвідувачів завершено, триває реєстрація на онлайн-трансляцію [EventBrite](https://www.eventbrite.com/e/owasp-dnipro-security-meetup-1-tickets-41684751213)
 
-### 2018-03-03	[OWASP Kyiv Spring 2018](https:/ Веб-сайт https://owasp.kyiv-/www.owasp.org/index.php/Kyiv)
-.ua
-- Twitter https:/ Facebook https://facebook-/twitter.com/owaspKyiv
-.com/ Програма [OWASP](https://www.owasp.org/index-owaspKyiv
-.php/ Подати заявку [EasyChair](https://easychair-Kyiv#tab=Future_Events)
-.org/cfp/OK-Q1-2018)
+### 2018-03-03	[OWASP Kyiv Spring 2018](https://www.owasp.org/index.php/Kyiv)
+- Веб-сайт https://owasp.kyiv.ua
+- Twitter https://twitter.com/owaspKyiv
+- Facebook https://facebook.com/owaspKyiv
+- Програма [OWASP](https://www.owasp.org/index.php/Kyiv#tab=Future_Events)
+- Подати заявку [EasyChair](https://easychair.org/cfp/OK-Q1-2018)
 - Реєстрація розпочнеться 1 лютого 2018 р. [EventBrite](https://www.eventbrite.com/e/owasp-kyiv-meetup-spring-2018-tickets-41664807561)
 
-### 2018-04-21	[BSides Kyiv 2018](https:/ Веб-сайт http://www.securitybsides-/securitybsides.org.ua)
-.com/05-17	[NoNameCon](https://nonamecon-w/page/107448240/BSidesKyiv
+### 2018-04-21	[BSides Kyiv 2018](https://securitybsides.org.ua)
+- Веб-сайт http://www.securitybsides.com/w/page/107448240/BSidesKyiv
 
-### 2018.org)
-- Веб-сайт https:/ Twitter https://twitter-/nonamecon.org
-.com/ Facebook https://www.facebook-nonameconorg
-.com/ Подати заявку на доповідь [EasyChair](https://easychair-nonameconorg
-.org/ Реєстрація розпочнеться 1 березня 2018 р-cfp/NNC2018)
-.
+### 2018-05-17	[NoNameCon](https://nonamecon.org)
+- Веб-сайт https://nonamecon.org
+- Twitter https://twitter.com/nonameconorg
+- Facebook https://www.facebook.com/nonameconorg
+- Подати заявку на доповідь [EasyChair](https://easychair.org/cfp/NNC2018)
+- Реєстрація розпочнеться 1 березня 2018 р.
 
 ## Архів
 |Дата|Назва|Презентації:open_file_folder:|Відео:video_camera:|
