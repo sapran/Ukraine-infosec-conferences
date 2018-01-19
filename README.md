@@ -38,35 +38,35 @@
 - Реєстрація розпочнеться 1 березня 2018 р.
 
 ## Архів
-|Дата|Подія|
-|---|---|
-|2017-12-09|[OWASP Kyiv Winter 2017](events/owaspkyiv-2017-12-02.md)|
-|2017-11-18|[OWASP Lviv "OWASP Ukraine 2017"](events/owasplviv-2017-11-18.md)|
-|2017-10-22|[UISGCON13](events/uisgcon13-2017-20-22.md)*|
-|2017-10-04|[OWASP KNURE Autumn 2017](events/owaspknure-2017-10-04.md)|
-|2017-09-23|[HackIT 2017](events/hackit-2017-09-23.md)*|
-|2017-09-09|[OWASP Kyiv Fall 2017](events/owaspkyiv-2017-09-09.md)|
+|Дата|Назва|Презентації:open_file_folder:|Відео:video_camera:|
+|---|---|---|---|
+|2017-12-02|[OWASP Kyiv Winter 2017](events/owaspkyiv-2017-12-02.md)|:smiley:|:smiley:
+|2017-11-18|[OWASP Lviv "OWASP Ukraine 2017"](events/owasplviv-2017-11-18.md)|:smiley:
+|2017-10-22|[UISGCON13](events/uisgcon13-2017-10-22.md)*|:smiley:|:smiley:
+|2017-10-04|[OWASP KNURE Autumn 2017](events/owaspknure-2017-10-04.md)|:smiley:
+|2017-09-23|[HackIT 2017](events/hackit-2017-09-23.md)*|:smiley:|:smiley:
+|2017-09-09|[OWASP Kyiv Fall 2017](events/owaspkyiv-2017-09-09.md)|:smiley:|:smiley:
 |2017-07-01|[BSides Odessa 2017](events/bsidesodessa-2017-07-01.md)*|
-|2017-06-10|[IT Weekend Lviv: Research & Security](events/itweekendlviv-2017-06-10.md)*|
-|2017-05-27|[OWASP Kyiv Kick-Off](events/owaspkyiv-2017-05-27.md)|
+|2017-06-10|[IT Weekend Lviv: Research & Security](events/itweekendlviv-2017-06-10.md)*|:smiley:
+|2017-05-27|[OWASP Kyiv Kick-Off](events/owaspkyiv-2017-05-27.md)|:smiley:|:smiley:
 |2017-03-14|[OWASP Ukraine Q1 2017](events/owaspukraine-2017-03-14.md)*|
-|2016-11-26|[UISGCON12](events/uisgcon12-2016-11-26.md)|
+|2016-11-26|[UISGCON12](events/uisgcon12-2016-11-26.md)||:smiley:
 |2016-11-12|[OWASP KNURE Q4 2016](events/owaspknure-2016-11-12.md)|
-|2016-10-07|[HackIT 2016](events/hackit-2016-10-07.md)|
-|2016-05-14|[BSides Kyiv 2016](events/bsideskyiv-2016-05-14.md)*|
-|2016-04-16|[OWASP KNURE Q2 2016](events/owaspknure-2016-04-16.md)|
+|2016-10-07|[HackIT 2016](events/hackit-2016-10-07.md)|:smiley:|:smiley:
+|2016-05-14|[BSides Kyiv 2016](events/bsideskyiv-2016-05-14.md)*|:smiley:
+|2016-04-16|[OWASP KNURE Q2 2016](events/owaspknure-2016-04-16.md)|:smiley:
 |2015-11-05|[OWASP KNURE Q4 2015](events/owaspknure-2015-11-05.md)|
-|2015-10-23|[HackIT 2015](events/hackit-2015-10-23.md)|
-|2015-07-18|[0xdec0de01](events/0xdec0de01-2015-07-18.md)*|
-|2015-03-07|[OWASP Ukraine Q1 2015](events/owaspukraine-2015-03-07.md)*|
-|2014-11-29|[OWASP Ukraine Q3 2014](events/owaspukraine-2014-11-29.md)|
-|2014-06-28|[OWASP Ukraine Q2 2014](events/owaspukraine-2014-06-28.md)*|
+|2015-10-23|[HackIT 2015](events/hackit-2015-10-23.md)|:smiley:
+|2015-07-18|[0xdec0de01](events/0xdec0de01-2015-07-18.md)*|:smiley:|:smiley:
+|2015-03-07|[OWASP Ukraine Q1 2015](events/owaspukraine-2015-03-07.md)*|:smiley:
+|2014-11-29|[OWASP Ukraine Q3 2014](events/owaspukraine-2014-11-29.md)|:smiley:
+|2014-06-28|[OWASP Ukraine Q2 2014](events/owaspukraine-2014-06-28.md)*|:smiley:
 |2014-03-15|[OWASP Ukraine Q1 2014](events/owaspukraine-2014-03-15.md)*|
-|2013-10-04|[UISGCON9](events/uisgcon9-2013-10-04.md)*|
-|2012-10-05|[UISGCON8](events/uisgcon8-2012-10-05.md)|
-|2011-12-02|[UISGv7](events/uisg7-2011-12-02.md)*|
-|2011-05-12|[UISGv6](events/uisg6-2011-05-12.md)|
-|2010-12-03|[UISG#5](events/uisg5-2010-12-03.md)|
-|2010-07-30|[UISG#4](events/uisg4-2010-07-30.md)|
+|2013-10-04|[UISGCON9](events/uisgcon9-2013-10-04.md)*|:smiley:|:smiley:
+|2012-10-05|[UISGCON8](events/uisgcon8-2012-10-05.md)|:smiley:
+|2011-12-02|[UISGv7](events/uisg7-2011-12-02.md)*|:smiley:
+|2011-05-12|[UISGv6](events/uisg6-2011-05-12.md)|:smiley:|:smiley:
+|2010-12-03|[UISG#5](events/uisg5-2010-12-03.md)|:smiley:|:smiley:
+|2010-07-30|[UISG#4](events/uisg4-2010-07-30.md)|:smiley:
 |2010-01-26|[UISG#2](events/uisg2-2010-01-26.md)|
 |2009-11-30|[UISG#1](events/uisg1-2009-11-30.md)|
