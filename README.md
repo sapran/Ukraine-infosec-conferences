@@ -45,6 +45,7 @@
 |2017-05-27|[OWASP Kyiv Kick-Off](events/owaspkyiv-2017-05-27.md)|
 |2017-03-14|[OWASP Ukraine Q1 2017](events/owaspukraine-2017-03-14.md)*|
 |2016-11-26|[UISGCON12](events/uisgcon12-2016-11-26.md)|
+|2016-10-07|[HackIT 2016](events/hackit-2016-10-07.md)|
 |2016-05-14|[BSides Kyiv 2016](events/bsideskyiv-2016-05-14.md)*|
 |2015-07-18|[0xdec0de01](events/0xdec0de01-2015-07-18.md)*|
 |2015-03-07|[OWASP Ukraine Q1 2015](events/owaspukraine-2015-03-07.md)*|
