@@ -71,3 +71,12 @@
 2010-07-30|[UISG#4](events/2010-07-30-uisg4.md)|:smiley:
 2010-01-26|[UISG#2](events/2010-01-26-uisg2.md)|
 2009-11-30|[UISG#1](events/2009-11-30-uisg1.md)|
+
+## Інші заходи
+Події з кібер-безпеки, які не зберігають архіви матеріалів зустрічей.
+- DefCon-UA (DC02139)
+	- Веб-сайт http://defcon.org.ua
+- Kharkiv DCG (DC057)
+	- Веб-сайт https://defcon.com.ua
+- r0 Crew
+	- Веб-сайт https://forum.reverse4you.org
