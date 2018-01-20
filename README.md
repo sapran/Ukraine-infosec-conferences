@@ -80,3 +80,5 @@
 	- Веб-сайт https://defcon.com.ua
 - r0 Crew
 	- Веб-сайт https://forum.reverse4you.org
+- DC032 Lviv
+	- Twitter https://twitter.com/dc032lviv
