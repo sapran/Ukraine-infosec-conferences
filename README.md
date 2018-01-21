@@ -13,17 +13,17 @@
 Просто надішліть інформацію у вільній формі на sapran@nonamecon.org.
 
 ## Анонси
-### 2018-02-22	[OWASP Dnipro Security meetup #1](https://www.owasp.org/index.php/Dnipro)
-- Веб-сайт https://www.owasp.org/index.php/Dnipro
-- CFP [EasyChair](https://easychair.org/cfp/od_sm1_2018)
-- Програма [Facebook](https://www.facebook.com/events/390549114729552/)
-- Реєстрацію відвідувачів завершено, триває реєстрація на онлайн-трансляцію [EventBrite](https://www.eventbrite.com/e/owasp-dnipro-security-meetup-1-tickets-41684751213)
-
 ### 2018-02-10	[Cloud Security Alliance Lviv chapter meetup #1](https://www.facebook.com/events/1887825491262791/)
 - Веб-сайт https://www.facebook.com/csalviv/
 - CFP csalvivchapter@gmail.com
 - Програма https://www.facebook.com/events/1887825491262791/
 - Реєстрація [EventBrite](https://www.eventbrite.com/e/cloud-security-alliance-lviv-chapter-meetup-1-tickets-42171878223)
+
+### 2018-02-22	[OWASP Dnipro Security meetup #1](https://www.owasp.org/index.php/Dnipro)
+- Веб-сайт https://www.owasp.org/index.php/Dnipro
+- CFP [EasyChair](https://easychair.org/cfp/od_sm1_2018)
+- Програма [Facebook](https://www.facebook.com/events/390549114729552/)
+- Реєстрацію відвідувачів завершено, триває реєстрація на онлайн-трансляцію [EventBrite](https://www.eventbrite.com/e/owasp-dnipro-security-meetup-1-tickets-41684751213)
 
 ### 2018-03-03	[OWASP Kyiv Spring 2018](https://www.owasp.org/index.php/Kyiv)
 - Веб-сайт https://owasp.kyiv.ua
