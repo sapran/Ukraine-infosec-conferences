@@ -34,7 +34,12 @@
 - Реєстрація розпочнеться 1 лютого 2018 р. [EventBrite](https://www.eventbrite.com/e/owasp-kyiv-meetup-spring-2018-tickets-41664807561)
 
 ### 2018-04-21	[BSides Kyiv 2018](https://securitybsides.org.ua)
-- Веб-сайт http://www.securitybsides.com/w/page/107448240/BSidesKyiv
+- Веб-сайт https://securitybsides.org.ua/
+- Twitter https://twitter.com/BSidesKyiv
+- Facebook https://www.facebook.com/BSidesKyiv/
+- Програма https://securitybsides.org.ua/#schedule
+- Подати заявку [Google Docs](https://docs.google.com/forms/d/e/1FAIpQLScMa6J4kgOegDnFLRWKFePFWuLKUufpNW36-DO9x4BUWs4baw/viewform)
+- Реєстрація розпочнеться 1 березня 2018 р.
 
 ### 2018-05-17	[NoNameCon](https://nonamecon.org)
 - Веб-сайт https://nonamecon.org
