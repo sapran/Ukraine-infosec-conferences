@@ -49,7 +49,7 @@
 - Реєстрація розпочнеться 1 березня 2018 р.
 
 ## Архів
-Дата|Назва|Презентації:open_file_folder:|Відео:video_camera:|Вимагає доповнення
+Дата|Назва|:open_file_folder: Презентації|:video_camera: Відео|Вимагає доповнення
 ---|---|:---:|:---:|:---:
 2017-12-02|[OWASP Kyiv Winter 2017](events/2017-12-02-owaspkyiv.md)|:smiley:|:smiley:
 2017-11-18|[OWASP Lviv "OWASP Ukraine 2017"](events/2017-11-18-owasplviv.md)|:smiley:
