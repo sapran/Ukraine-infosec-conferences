@@ -30,8 +30,7 @@
 - Twitter https://twitter.com/owaspKyiv
 - Facebook https://facebook.com/owaspKyiv
 - Програма [OWASP](https://www.owasp.org/index.php/Kyiv#tab=Future_Events)
-- Подати заявку [EasyChair](https://easychair.org/cfp/OK-Q1-2018)
-- Реєстрація розпочнеться 1 лютого 2018 р. [EventBrite](https://www.eventbrite.com/e/owasp-kyiv-meetup-spring-2018-tickets-41664807561)
+- Реєстрація розпочинається 1 лютого 2018 р. [EventBrite](https://www.eventbrite.com/e/owasp-kyiv-meetup-spring-2018-tickets-41664807561)
 
 ### 2018-04-21	[BSides Kyiv 2018](https://securitybsides.org.ua)
 - Веб-сайт https://securitybsides.org.ua/
