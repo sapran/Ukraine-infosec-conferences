@@ -13,11 +13,6 @@
 Просто надішліть інформацію у вільній формі на sapran@nonamecon.org.
 
 ## Анонси
-### 2018-02-10	[Cloud Security Alliance Lviv chapter meetup #1](https://www.facebook.com/events/1887825491262791/)
-- Веб-сайт https://www.facebook.com/csalviv/
-- CFP csalvivchapter@gmail.com
-- Програма https://www.facebook.com/events/1887825491262791/
-- Реєстрація [EventBrite](https://www.eventbrite.com/e/cloud-security-alliance-lviv-chapter-meetup-1-tickets-42171878223)
 
 ### 2018-02-22	[OWASP Dnipro Security meetup #1](https://www.owasp.org/index.php/Dnipro)
 - Веб-сайт https://www.owasp.org/index.php/Dnipro
@@ -50,6 +45,7 @@
 ## Архів
 Дата|Назва|:open_file_folder: Презентації|:video_camera: Відео|Вимагає доповнення
 ---|---|:---:|:---:|:---:
+2018-02-10|[Cloud Security Alliance, Lviv chapter meetup #1](events/2018-02-10-csalviv.md)|:smiley:||
 2017-12-02|[OWASP Kyiv Winter 2017](events/2017-12-02-owaspkyiv.md)|:smiley:|:smiley:
 2017-11-18|[OWASP Lviv "OWASP Ukraine 2017"](events/2017-11-18-owasplviv.md)|:smiley:
 2017-10-22|[UISGCON13](events/2017-10-22-uisgcon13.md)|:smiley:|:smiley:|:exclamation:
