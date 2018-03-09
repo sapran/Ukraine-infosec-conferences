@@ -20,13 +20,6 @@
 - Програма [Facebook](https://www.facebook.com/events/390549114729552/)
 - Реєстрацію відвідувачів завершено, триває реєстрація на онлайн-трансляцію [EventBrite](https://www.eventbrite.com/e/owasp-dnipro-security-meetup-1-tickets-41684751213)
 
-### 2018-03-03	[OWASP Kyiv Spring 2018](https://www.owasp.org/index.php/Kyiv)
-- Веб-сайт https://owasp.kyiv.ua
-- Twitter https://twitter.com/owaspKyiv
-- Facebook https://facebook.com/owaspKyiv
-- Програма [OWASP](https://www.owasp.org/index.php/Kyiv#tab=Future_Events)
-- Реєстрація розпочинається 1 лютого 2018 р. [EventBrite](https://www.eventbrite.com/e/owasp-kyiv-meetup-spring-2018-tickets-41664807561)
-
 ### 2018-04-21	[BSides Kyiv 2018](https://securitybsides.org.ua)
 - Веб-сайт https://securitybsides.org.ua/
 - Twitter https://twitter.com/BSidesKyiv
