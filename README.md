@@ -20,14 +20,14 @@
 - Facebook https://www.facebook.com/BSidesKyiv/
 - Програма https://securitybsides.org.ua/#schedule
 - Подати заявку [Google Docs](https://docs.google.com/forms/d/e/1FAIpQLScMa6J4kgOegDnFLRWKFePFWuLKUufpNW36-DO9x4BUWs4baw/viewform)
-- Реєстрація розпочнеться 1 березня 2018 р.
+- Реєстрація https://securitybsides.ticketforevent.com
 
 ### 2018-05-17	[NoNameCon](https://nonamecon.org)
 - Веб-сайт https://nonamecon.org
 - Twitter https://twitter.com/nonameconorg
 - Facebook https://www.facebook.com/nonameconorg
 - Подати заявку на доповідь [EasyChair](https://easychair.org/cfp/NNC2018)
-- Реєстрація розпочнеться 1 березня 2018 р.
+- Реєстрація розпочнеться 18 березня 2018 р.
 
 ## Архів
 Дата|Назва|:open_file_folder: Презентації|:video_camera: Відео|Вимагає доповнення
