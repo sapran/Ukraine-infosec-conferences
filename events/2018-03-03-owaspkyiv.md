@@ -8,7 +8,7 @@
 
 Архів презентацій: https://www.owasp.org/index.php/Kyiv#tab=Past_Events
 
-Архів відео: https://www.owasp.org/index.php/Kyiv#tab=Past_Events
+Архів відео: https://www.youtube.com/playlist?list=PLDLqQj8RuUFvoCYreEtqeNuRLt9pCCdJE
 
 Фотоальбом: TODO
 
