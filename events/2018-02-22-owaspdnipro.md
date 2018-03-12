@@ -24,5 +24,5 @@
 - Відео: [YouTube](https://www.youtube.com/watch?v=HUaXUB4smd4)
 
 The Strength of Ukrainian Users’ P@ssw0rds2017 - Serhiy Korolenko
-- Презентація: [Google Drive](https://drive.google.com/file/d/1q6KpA_3LWeUQaZO1bL07PdapVzSRhR5w/view)
-- Відео: [YouTube](https://www.youtube.com/watch?v=N0QkYWagRJ4)()
+- Презентація: [Google Drive](https://drive.google.com/file/d/1Rsmjw6qd2O7o1VL1EUD6xEYvXDI1R7A0/view?usp=sharing)
+- Відео: [YouTube](https://www.youtube.com/watch?v=N0QkYWagRJ4)
