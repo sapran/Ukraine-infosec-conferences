@@ -21,7 +21,7 @@
 - Twitter https://twitter.com/nonameconorg
 - Facebook https://www.facebook.com/nonameconorg
 - Подати заявку на доповідь [EasyChair](https://easychair.org/cfp/NNC2018)
-- Реєстрація розпочнеться 18 березня 2018 р.
+- Реєстрація https://nonamecon.ticketforevent.com
 
 ## Архів
 
