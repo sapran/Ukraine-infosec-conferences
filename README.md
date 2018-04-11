@@ -20,6 +20,7 @@
 - Веб-сайт https://nonamecon.org
 - Twitter https://twitter.com/nonameconorg
 - Facebook https://www.facebook.com/nonameconorg
+- Програма https://nonamecon.sched.com/
 - Подати заявку на доповідь [EasyChair](https://easychair.org/cfp/NNC2018)
 - Реєстрація https://nonamecon.ticketforevent.com
 
