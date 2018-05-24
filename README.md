@@ -14,6 +14,7 @@
 
 Дата|Назва|:open_file_folder: Презентації|:video_camera: Відео|Вимагає доповнення
 ---|---|:---:|:---:|:---:
+2018-05-17,18|[NoNameCon 2018](events/2018-05-17-18-nonamecon.md)|||:exclamation:
 2018-03-03|[OWASP Kyiv Spring 2018](events/2018-03-03-owaspkyiv.md)|:smiley:|:smiley:|
 2018-03-22|[OWASP Dnipro Chapter Meetup #1](events/2018-02-22-owaspdnipro.md)|:smiley:|:smiley:|
 2018-02-10|[CSA Lviv Chapter Meetup #1](events/2018-02-10-csalviv.md)|:smiley:||
