@@ -8,21 +8,7 @@
 
 ## Анонси
 
-### 2018-04-21	[BSides Kyiv 2018](https://securitybsides.org.ua)
-- Веб-сайт https://securitybsides.org.ua/
-- Twitter https://twitter.com/BSidesKyiv
-- Facebook https://www.facebook.com/BSidesKyiv/
-- Програма https://securitybsides.org.ua/#schedule
-- Подати заявку [Google Docs](https://docs.google.com/forms/d/e/1FAIpQLScMa6J4kgOegDnFLRWKFePFWuLKUufpNW36-DO9x4BUWs4baw/viewform)
-- Реєстрація https://securitybsides.ticketforevent.com
 
-### 2018-05-17	[NoNameCon](https://nonamecon.org)
-- Веб-сайт https://nonamecon.org
-- Twitter https://twitter.com/nonameconorg
-- Facebook https://www.facebook.com/nonameconorg
-- Програма https://nonamecon.sched.com/
-- Подати заявку на доповідь [EasyChair](https://easychair.org/cfp/NNC2018)
-- Реєстрація https://nonamecon.ticketforevent.com
 
 ## Архів
 
