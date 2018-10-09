@@ -60,7 +60,9 @@
 	- Веб-сайт https://defcon.com.ua
 - r0 Crew
 	- Веб-сайт https://forum.reverse4you.org
-- DC032 Lviv
-	- Twitter https://twitter.com/dc032lviv
+- DEFCON Lviv (DC38032)
+	- Twitter https://twitter.com/dc38032
+	- Telegram чат - https://t.me/DC38032
+	- Веб-сайт https://defcon.lviv.ua
 - PUB KEY
 	- Facebook https://www.facebook.com/groups/540997802728196/
