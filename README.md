@@ -14,6 +14,7 @@
 
 Дата|Назва|:open_file_folder: Презентації|:video_camera: Відео|Вимагає доповнення
 ---|---|:---:|:---:|:---:
+2018-10-01|[OWASP Lviv Autumn Meetup](events/2018-10-01-owasplviv.md)|:smiley:|:smiley:|
 2018-06-16|[BSidesKharkiv 2018](events/2018-06-16-BSidesKharkiv.md)||:smiley:|:exclamation:
 2018-05-17,18|[NoNameCon 2018](events/2018-05-17-18-nonamecon.md)|:smiley:|:smiley:|
 2018-04-21|[BSidesKyiv 2018](events/2018-04-21-BSidesKyiv.md)|:smiley:|:smiley:|
