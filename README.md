@@ -7,6 +7,7 @@
 - [HOWTO: Як розмістити або виправити інформацію](https://github.com/sapran/Ukraine-infosec-conferences/wiki/HOWTO:-як-розмістити-або-виправити-інформацію)
 
 ## Анонси
+2018-11-23,24 [OWASP Ukraine 2018](events/2018-11-23,24-owaspukraine.md)
 2018-10-26 [UISGCON14](events/2018-10-26-UISGCON14.md)
 
 
