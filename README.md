@@ -7,10 +7,16 @@
 - [HOWTO: Як розмістити або виправити інформацію](https://github.com/sapran/Ukraine-infosec-conferences/wiki/HOWTO:-як-розмістити-або-виправити-інформацію)
 
 ## Анонси
+
+2019-05-14,15,16,17 [NoNameCon 2019](https://2019.nonamecon.org)
+
+2019-02-02 [OWASP Kyiv Winter 2019 Meetup](https://www.facebook.com/events/1946008605518815/)
+
+2018-12-15 [BSides Kharkiv Meetup 2018](https://www.facebook.com/events/1918025591649714/)
+
 2018-11-23,24 [OWASP Ukraine 2018](events/2018-11-23,24-owaspukraine.md)
 
 2018-10-26 [UISGCON14](events/2018-10-26-UISGCON14.md)
-
 
 ## Архів
 
