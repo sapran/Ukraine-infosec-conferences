@@ -10,12 +10,11 @@
 
 ## Програма
 
-
 Yuriy Rudyy - Person of Interest (locate and identify device: cell LAC, WiFi, iBeacon...)
- - Презентація:[Google Slides](https://goo.gl/LENYXG)
+ - Презентація: [Google Slides](https://goo.gl/LENYXG)
  
 Igor Khoroshchenko - Data Leakages Epic Fuckups
- - Презентація:[Google Slides](https://goo.gl/uVt2yN)
+ - Презентація: [Google Slides](https://goo.gl/uVt2yN)
  
 Roman Kolodiy - Automating Security Scanning within SDLC 
- - Презентація:[Google Slides](https://goo.gl/QQB2Br)
+ - Презентація: [Google Slides](https://goo.gl/QQB2Br)
