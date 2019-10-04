@@ -20,7 +20,8 @@
 
 Дата|Назва|:open_file_folder: Презентації|:video_camera: Відео|Вимагає доповнення
 ---|---|:---:|:---:|:---:
-2018-09-29|[OWASP Lviv Winter 2019](events/2019-02-19-owasplviv.md)|:smiley:|:smiley:|
+2019-08-28|[OWASP Lviv Summer 2019](events/2019-08-28-owasplviv.md)|:smiley:||
+2019-02-19|[OWASP Lviv Winter 2019](events/2019-02-19-owasplviv.md)|:smiley:|:smiley:|
 2018-09-29|[OWASP Kyiv Fall 2018](events/2018-09-29-owaspkyiv.md)||:smiley:|:exclamation:
 2018-10-01|[OWASP Lviv Autumn 2018 Meetup](events/2018-10-01-owasplviv.md)|:smiley:|:smiley:|
 2018-06-16|[BSidesKharkiv 2018](events/2018-03-03-BSidesKharkiv.md)||:smiley:|:exclamation:
