@@ -8,8 +8,6 @@
 
 ## Анонси
 
-2019-05-14,15,16,17 [NoNameCon 2019](https://2019.nonamecon.org)
-
 2019-02-02 [OWASP Kyiv Winter 2019 Meetup](https://www.facebook.com/events/1946008605518815/)
 
 2018-12-15 [BSides Kharkiv Meetup 2018](https://www.facebook.com/events/1918025591649714/)
@@ -20,6 +18,7 @@
 
 Дата|Назва|:open_file_folder: Презентації|:video_camera: Відео|Вимагає доповнення
 ---|---|:---:|:---:|:---:
+2019-05-16,17|[NoNameCon 2019](events/2019-05-16-17-nonamecon.md)|:smiley:|:smiley:|
 2019-08-28|[OWASP Lviv Summer 2019](events/2019-08-28-owasplviv.md)|:smiley:||
 2019-02-19|[OWASP Lviv Winter 2019](events/2019-02-19-owasplviv.md)|:smiley:|:smiley:|
 2018-09-29|[OWASP Kyiv Fall 2018](events/2018-09-29-owaspkyiv.md)||:smiley:|:exclamation:
