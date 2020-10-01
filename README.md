@@ -18,6 +18,7 @@
 
 Дата|Назва|:open_file_folder: Презентації|:video_camera: Відео|Вимагає доповнення
 ---|---|:---:|:---:|:---:
+2020-09-03,03|[NoNameCon 2020](events/2020-09-03-04-nonamecon.md)|:smiley:|:smiley:|:exclamation:
 2019-05-16,17|[NoNameCon 2019](events/2019-05-16-17-nonamecon.md)|:smiley:|:smiley:|
 2019-08-28|[OWASP Lviv Summer 2019](events/2019-08-28-owasplviv.md)|:smiley:||
 2019-02-19|[OWASP Lviv Winter 2019](events/2019-02-19-owasplviv.md)|:smiley:|:smiley:|
