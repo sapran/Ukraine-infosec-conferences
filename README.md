@@ -8,11 +8,7 @@
 
 ## Анонси
 
-2019-02-02 [OWASP Kyiv Winter 2019 Meetup](https://www.facebook.com/events/1946008605518815/)
-
-2018-12-15 [BSides Kharkiv Meetup 2018](https://www.facebook.com/events/1918025591649714/)
-
-2018-10-26 [UISGCON14](events/2018-10-26-UISGCON14.md)
+…
 
 ## Архів
 
